@@ -1,4 +1,5 @@
-mport matplotlib.pyplot as plt
+import nuympy as np
+import matplotlib.pyplot as plt
 
 # Grid parameters
 Nx = 50  # Number of x points
